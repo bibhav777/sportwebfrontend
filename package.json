@@ -1,0 +1,19 @@
+{
+  "name": "spmanagementfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibhav777/sportwebfrontend.git"
+  },
+  "author": "Beebhav Sapkota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibhav777/sportwebfrontend/issues"
+  },
+  "homepage": "https://github.com/bibhav777/sportwebfrontend#readme"
+}
