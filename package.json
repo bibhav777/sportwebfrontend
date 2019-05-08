@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bibhav777/sportwebfrontend/issues"
   },
-  "homepage": "https://github.com/bibhav777/sportwebfrontend#readme"
+  "homepage": "https://github.com/bibhav777/sportwebfrontend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
