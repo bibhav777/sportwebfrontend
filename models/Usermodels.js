@@ -29,7 +29,7 @@ lastname: {
 }
 );
 
-User.sync({force:true})
+User.sync({force:false})
 .then(function(result){
    console.log(result);
 
